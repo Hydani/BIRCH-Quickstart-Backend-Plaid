@@ -9,3 +9,5 @@ If the terminal prompts
 The server is running.
 
 The Keys are included in the submissions.
+
+Copyright @ Plaid
